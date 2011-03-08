@@ -1,0 +1,7 @@
+
+lib_sqlite3
+
+    -> sqlite3 library.
+    -> Manage sqlite db with simple functions.
+
+Work in progress..
